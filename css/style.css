@@ -1,0 +1,116 @@
+body {
+  font-family: Helvetica;
+  font-size: 32px;
+  line-height: 1.25;
+
+  background-color: #EEEDED
+  color: #00000000
+
+}
+
+h2 {
+  font-family: Arial Narrow, sans-serif;
+  font-size:28px;
+  line-height: 2;
+}
+
+p.p1{
+  font-size:24px;
+  padding-left: 150px;
+  width:40em;
+  padding-bottom: 75px;
+}
+
+#cursive {
+  font-family:Snell Roundhand, cursive;
+  font-size: 42px;
+}
+
+
+
+header, section {
+  padding: 30px;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+}
+
+section p {
+  padding-left: 55px;
+  width: 35em;
+  padding-top: 55px;
+}
+
+section.intro {
+  background-color: #D9FF43
+}
+
+section.intro p {
+}
+
+section.introImage {
+background-color: #EEEDED
+}
+
+section.introduction {
+  background-color: #EEEDED
+}
+
+section.researchIntro {
+  background-color: #D9FF43
+
+}
+
+section.research {
+  background-color: #EEEDED
+
+}
+
+section.researchImage {
+  background-color: #EEEDED
+
+}
+
+section.goals {
+  background-color: #D9FF43
+}
+
+section.goalsImage {
+  background-color: #EEEDED
+}
+
+section.goalsWrite {
+  background-color: #EEEDED
+
+}
+
+section.audienceIntro {
+  background-color: #D9FF43
+}
+
+section.audienceImage {
+  background-color: #EEEDED
+}
+section.audience {
+  background-color: #EEEDED
+}
+
+section.outcomeIntro {
+  background-color: #D9FF43
+}
+
+section.outcomeImage {
+  background-color: #EEEDED
+}
+
+section.outcome {
+  background-color: #EEEDED
+}
+
+section.last {
+  background-color: #EEEDED
+}
+
+section.lastWords {
+  background-color: #D9FF43;
+}
